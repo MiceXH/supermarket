@@ -23,5 +23,9 @@
 
 	出库表编号 exitID;
 	仓库管理员编号 Warehouse whAdminID;
-	
+	超市编号 Supermarket smID;
+	商品编号 Product pID;
+	仓库编号 Warehouse whID;
+	出库日期 exitDate;
+	出库数量 exitNum;
 }
