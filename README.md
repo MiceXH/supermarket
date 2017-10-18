@@ -29,3 +29,16 @@
 	出库日期 exitDate;
 	出库数量 exitNum;
 }
+
+供应商类 Supplier{
+    
+    供应商编号 supID;
+    供应商名 supName;
+    供应商地址 supAdds;
+    供应商电话 supPhone;
+    供应商账户 supAccount;
+    供应商银行 supBank;
+   
+}
+
+ 
